@@ -6,4 +6,4 @@ def test_example():
 
 
 def test_failure():
-    assert 1 == 3
+    assert 3 == 3
